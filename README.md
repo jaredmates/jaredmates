@@ -16,7 +16,7 @@
 
 - ✍️ Solving Data Structure and Algorithm questions
 
-- 👀 I’m interested in Android App Development
+- 👀 I’m interested in Mobile App Development
 
 - 📫 How to reach me: jaredmates45@gmail.com
 
