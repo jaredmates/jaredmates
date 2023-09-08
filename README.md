@@ -4,6 +4,7 @@
 
   <a href="https://github.com/shravyarao889/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Full+Stack+Web+Developer;&center=false&width=400&height=27"></a>
 
+<!--- 
 ## About Me:
 
 - 👨‍💻 All of my projects are available at [https://github.com/jaredmates](https://github.com/jaredmates)
@@ -19,6 +20,8 @@
 - 👀 I’m interested in Mobile App Development
 
 - 📫 How to reach me: jaredmates45@gmail.com
+
+--->
 
 ## Languages and Tools:
 
