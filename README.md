@@ -3,7 +3,7 @@
 </h1>
 
 
-  <a href="https://github.com/shravyarao889/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Full+Stack+Web+Developer;&center=false&width=400&height=27"></a>
+  <a href="https://github.com/shravyarao889/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Full+Stack+Software+Developer;&center=false&width=400&height=27"></a>
 
 
 ## About Me:
