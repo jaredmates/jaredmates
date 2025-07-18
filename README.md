@@ -2,17 +2,15 @@
   Hi there 👋 I'm Jared 💻 
 </h1>
 
-<!--- 
+
   <a href="https://github.com/shravyarao889/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Full+Stack+Web+Developer;&center=false&width=400&height=27"></a>
 
 
 ## About Me:
 
-- 👨‍💻 All of my projects are available at [https://github.com/jaredmates](https://github.com/jaredmates)
+- 📍 Based in San Diego, CA
 
-- 📍 Based in San Diego, CA and open to relocate
-
-- 🔭 I’m looking for job opportunities in Full Stack Web Development 
+- 🔭 I’m looking for job opportunities in Full Stack Software Development 
 
 - 🌱 I’m currently working on building apps using Python and AWS
 
@@ -22,7 +20,7 @@
 
 - 📫 How to reach me: jaredmates45@gmail.com
 
---->
+
 
 ## Languages and Tools:
 
@@ -57,7 +55,9 @@
 
 ## My Github Stats:
 
+<!---
 <a href="https://github.com/jaredmates/github-readme-stats"><img alt="Jared Mates's Github Stats" src="https://github-readme-stats.vercel.app/api?username=jaredmates&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
+--->
   <a href="https://github.com/jaredmates/github-readme-stats"><img alt="Jared Mates's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jaredmates&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
   <br/>
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
